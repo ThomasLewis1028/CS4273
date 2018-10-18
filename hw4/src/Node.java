@@ -1,3 +1,8 @@
+/**
+ * Basic node class to hold element and x/y.
+ * Also includes a position to help determine slice points
+ */
+
 public class Node {
 	private int e;
 	private int x;
